@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "MCP server (debug)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/mcp-server/server.py",
+      "cwd": "${workspaceFolder}/mcp-server",
+      "envFile": "${workspaceFolder}/mcp-server/.env",
+     "console": "internalConsole"
+    }
+  ]
+}

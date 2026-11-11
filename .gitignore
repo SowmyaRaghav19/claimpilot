@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+local.settings.json
+appsettings.Development.json
+bin/
+obj/
+node_modules/
+dist/
+.angular/
